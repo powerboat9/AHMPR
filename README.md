@@ -1,2 +1,2 @@
-# AHMPR
-Automatic HeMan Player for Roku
+# ARD
+Automatic Roku Disabler
